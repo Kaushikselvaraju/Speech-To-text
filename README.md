@@ -1,1 +1,1 @@
-# Speech-To-text
+A vanilla javascript project
