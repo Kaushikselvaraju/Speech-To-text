@@ -38,7 +38,7 @@ button:focus {
 
 .no-browser-support {
   display: none;
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   color: #ff2600;
   margin-top: 35px;
 }
@@ -48,11 +48,11 @@ button:focus {
 }
 
 #note-textarea {
-  margin: 20px 0;
+  margin: 25px 0;
 }
 
 #recording-instructions {
-  margin: 15px auto 60px;
+  margin: 17px auto 65px;
 }
 
 #notes {
