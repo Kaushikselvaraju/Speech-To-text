@@ -25,6 +25,6 @@
 
 <br>
 
-## Find the app [here](https://speaktextjs.netlify.app/).
+### Find the app [here](https://speaktextjs.netlify.app/).
 
 <br>
